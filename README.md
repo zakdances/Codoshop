@@ -1,4 +1,4 @@
-Codoshop (project paused)
+Codoshop (project paused, not sure when I will resume development)
 ========
 
 A Text Editor for Artistic Programmers
